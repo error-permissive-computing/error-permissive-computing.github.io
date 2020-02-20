@@ -31,5 +31,5 @@ layer.
 Copyright (c) 2020 National Institute of Advanced Industrial Science and Technology (AIST).  
 All rights reserved.
 
-<img align="right" src="aist-logo.png" height=128>
-<img align="right" src="rwbc-logo.png" height=128>
+![AIST Logo](aist-logo.png)
+![RWBC Logo](rwbc-logo.png)
