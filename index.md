@@ -31,4 +31,4 @@ Now ongoing!
 Copyright (c) 2020 National Institute of Advanced Industrial Science and Technology (AIST).  
 All rights reserved.
 
-<img src="aist-logo.png" width="100">
+<img src="aist-logo.png" height="80"> <img src="rwbc-logo.png" height="80">
