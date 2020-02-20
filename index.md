@@ -22,10 +22,14 @@ layer.
 - Hiroki Kanezashi
 - Akram Ben Ahmed
 
+# Research
+
+
 
 # Copyright
 
-Copyright (c) 2020 National Institute of Advanced Industrial Science and Technology (AIST). All rights reserved.
+Copyright (c) 2020 National Institute of Advanced Industrial Science and Technology (AIST).  
+All rights reserved.
 
-![](aist-logo.png | height=100)
-![](rwbc-logo.png | height=100)
+<img align="right" src="aist-logo.png" height=128>
+<img align="right" src="rwbc-logo.png" height=128>
