@@ -21,3 +21,11 @@ layer.
 - Truong Thao Nguyen
 - Hiroki Kanezashi
 - Akram Ben Ahmed
+
+
+# Copyright
+
+Copyright (c) 2020 National Institute of Advanced Industrial Science and Technology (AIST). All rights reserved.
+
+![](aist-logo.png | height=100)
+![](rwbc-logo.png | height=100)
