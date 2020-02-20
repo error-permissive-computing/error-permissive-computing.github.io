@@ -24,12 +24,11 @@ layer.
 
 # Research
 
-
+Now ongoing!
 
 # Copyright
 
 Copyright (c) 2020 National Institute of Advanced Industrial Science and Technology (AIST).  
 All rights reserved.
 
-![AIST Logo](aist-logo.png)
-![RWBC Logo](rwbc-logo.png)
+<img src="aist-logo.png" width="100">
