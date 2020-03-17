@@ -10,6 +10,10 @@ to software, lightweight and appropriate error correction is performed at the
 software layer while eliminating general purpose error correction in hardware
 layer.
 
+We are hiring a postdoc researcher to work with us.
+See [Call for Postdoc Application](/docs/call-for-postdoc-v6.pdf).
+Feel free to contact us.
+
 # Members
 
 - [AIST-Tokyo Tech Real World Big Data Computation Open Innovation Laboratory](https://unit.aist.go.jp/rwbc-oil/index-en.html)
@@ -28,7 +32,7 @@ Now ongoing!
 
 # Publication 
 
-1. R. Takano, T. Hirofuchi, M. Wahib, T. Nguyen, H. Kanezashi, A. Ahmed, "Error Permissive Computing: a New Approach for Post Moore’s Computer System Design," 2nd R-CCS International Symposium, February 2020. [Poster](/docs/epc.rccs2020-poster.pdf)
+1. R. Takano, T. Hirofuchi, M. Wahib, T. Nguyen, H. Kanezashi, A. Ahmed, "Error Permissive Computing: a New Approach for Post Moore's Computer System Design," 2nd R-CCS International Symposium, February 2020. [Poster](/docs/epc.rccs2020-poster.pdf)
 
 # Copyright
 
