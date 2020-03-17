@@ -36,7 +36,7 @@ Now ongoing!
 
 # Contact
 
-Contact: epc-contact@aist.go.jp
+E-mail: epc-contact@aist.go.jp
 
 Copyright (c) 2020 National Institute of Advanced Industrial Science and Technology (AIST).  
 All rights reserved.
