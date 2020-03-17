@@ -34,7 +34,9 @@ Now ongoing!
 
 1. R. Takano, T. Hirofuchi, M. Wahib, T. Nguyen, H. Kanezashi, A. Ahmed, "Error Permissive Computing: a New Approach for Post Moore's Computer System Design," 2nd R-CCS International Symposium, February 2020. [Poster](/docs/epc.rccs2020-poster.pdf)
 
-# Copyright
+# Contact
+
+Contact: epc-contact@aist.go.jp
 
 Copyright (c) 2020 National Institute of Advanced Industrial Science and Technology (AIST).  
 All rights reserved.
